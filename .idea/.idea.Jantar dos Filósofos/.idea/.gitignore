@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Jantar dos Filósofos.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\lucas\Documents\Unity\Jantar dos Filósofos\.idea\.idea.Jantar dos Filósofos\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
